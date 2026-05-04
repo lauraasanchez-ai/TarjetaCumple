@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//primera columna
 //creacion de columna
 class ColumExp extends StatelessWidget{
 @override
